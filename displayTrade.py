@@ -46,8 +46,8 @@ except Exception as e:
 
 
 try:       
-    st.title('Nifty')
-    nifty = open(f'/home/rajathdb/D/Automated-Trading/ubuntu/nifty{str(datetime.date.today())}.txt')
+    st.title('ULTRACEMCO')
+    nifty = open(f'/home/rajathdb/D/Automated-Trading/ubuntu/ULTRACEMCO{str(datetime.date.today())}.txt')
     linesn = nifty.read()
     lst = []
     for d in eval(linesn):

@@ -54,29 +54,29 @@ def colorChangerRev(val):
 
 # st.write('Call Option data')
 
-# ce = st.write(dataCE[len(dataCE)-15:])
+# ce = st.write(dataCE[len(dataCE)-15:]) 
 # st.write('Put Option data')
 # pe = st.write(dataPE[len(dataPE)-15:] )
 
-# --------- nifty -------
+# # --------- nifty -------
 
 
-st.title('Nifty')
-dataCEN = pd.read_csv(f'niftyCE{str(datetime.date.today())}.csv',)
-dataCEN.drop('Unnamed: 0', axis=1, inplace = True)
-dataPEN = pd.read_csv(f'niftyPE{str(datetime.date.today())}.csv')
-dataPEN.drop('Unnamed: 0', axis=1, inplace = True)
-st.write('Call Option data')
-ceN = st.write(dataCEN[len(dataCEN)-15:])
-st.write('Put Option data')
-peN = st.write(dataPEN[len(dataPEN)-15:])
+# st.title('Nifty')
+# dataCEN = pd.read_csv(f'niftyCE{str(datetime.date.today())}.csv',)
+# dataCEN.drop('Unnamed: 0', axis=1, inplace = True)
+# dataPEN = pd.read_csv(f'niftyPE{str(datetime.date.today())}.csv')
+# dataPEN.drop('Unnamed: 0', axis=1, inplace = True)
+# st.write('Call Option data')
+# ceN = st.write(dataCEN[len(dataCEN)-15:])
+# st.write('Put Option data')
+# peN = st.write(dataPEN[len(dataPEN)-15:])
 
 # ------------
 
 
 
-st.write('Banknifty')
-dfRt = pd.read_csv('banknifty_status.csv',)
+st.write('ULTRACEMCO')
+dfRt = pd.read_csv('ULTRACEMCO_status.csv',)
 dfRt.drop('Unnamed: 0', axis=1, inplace = True)
 s = dfRt.style.applymap(colorChanger)
 st.table(s)
