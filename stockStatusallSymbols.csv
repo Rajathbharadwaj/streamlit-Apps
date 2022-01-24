@@ -1,0 +1,173 @@
+,name,ltq,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,AARTIIND,850,932.5,948.45,924.1,0.3094,Was HTH | 939.95,No,"No buy, but in Long",crossed below,sell,sell,In Short,1793,2021-09-28 16:52:44.672108
+1,ABFRL,2600,223.5,229.5,220.55,0.4330,Less,Was LTL | 221.0,"No buy, but in Long",crossed below,sell,sell,In Short,7707649,2021-09-28 16:52:45.702714
+2,ACC,500,2300.25,2357.9,2286.05,0.3764,Was HTH | 2346.75,Was LTL | 2286.5,"No buy, but in Long",crossed below,sell,sell,In Long,5633,2021-09-28 16:52:47.229652
+3,ADANIENT,1000,1487.3,1557.0,1475.0,0.4359,Was HTH | 1544.0,No,"No buy, but in Long",crossed below,sell,sell,In Long,6401,2021-09-28 16:52:48.303393
+4,ADANIPORTS,1250,738.7,756.9,733.0,0.4247,Was HTH | 753.8,Was LTL | 736.4,"No sell, but in Short",crossed below,sell,sell,In Long,3861249,2021-09-28 16:52:49.358254
+5,ALKEM,200,3936.3,4018.0,3875.75,0.6065,Less,LTL,"No buy, but in Long",crossed below,buy,buy,In Long,2995969,2021-09-28 16:52:50.447692
+6,AMARAJABAT,1000,753.35,774.9,750.0,0.4331,Was HTH | 764.9,No,"No sell, but in Short",crossed below,sell,sell,In Long,25601,2021-09-28 16:52:51.606651
+7,AMBUJACEM,3000,413.1,424.5,411.2,0.3896,Was HTH | 420.0,No,"No sell, but in Short",crossed below,sell,sell,In Short,325121,2021-09-28 16:52:52.910927
+8,APLLTD,550,781.35,798.8,775.05,0.4251,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,6483969,2021-09-28 16:52:54.260703
+9,APOLLOHOSP,250,4411.05,4629.55,4376.2,0.2730,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,40193,2021-09-28 16:52:56.207688
+10,APOLLOTYRE,2500,226.4,234.3,225.5,0.5324,Less,Was LTL | 225.95,"No sell, but in Short",crossed below,sell,sell,In Long,41729,2021-09-28 16:52:57.232342
+11,ASHOKLEY,4500,129.65,132.15,128.2,0.6002,Was HTH | 131.95,No,"No buy, but in Long",crossed below,sell,sell,In Long,54273,2021-09-28 16:52:58.757254
+12,ASIANPAINT,300,3379.7,3429.2,3352.9,0.6295,Less,LTL,"No buy, but in Long",crossed below,buy,buy,In Long,60417,2021-09-28 16:52:59.831929
+13,ASTRAL,275,2104.05,2110.1,2055.25,0.3060,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,3691009,2021-09-28 16:53:00.846679
+14,AUBANK,500,1127.6,1143.2,1106.65,0.4646,Was HTH | 1134.0,No,"No buy, but in Long",crossed below,sell,sell,In Short,5436929,2021-09-28 16:53:01.966732
+15,AUROPHARMA,650,725.05,730.65,709.65,0.5477,HTH,Was LTL | 714.0,"No buy, but in Long",crossed below,buy,buy,In Long,70401,2021-09-28 16:53:03.093438
+16,AXISBANK,1200,789.2,805.6,778.0,0.3524,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,1510401,2021-09-28 16:53:04.175733
+17,BAJAJ-AUTO,250,3908.7,3944.8,3875.6,0.5351,Was HTH | 3924.8,No,"No buy, but in Long",crossed below,buy,buy,In Long,4267265,2021-09-28 16:53:05.521961
+18,BAJAJFINSV,75,17550.35,18186.0,17440.0,0.6310,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Long,4268801,2021-09-28 16:53:06.924693
+19,BAJFINANCE,125,7543.3,7824.9,7426.8,0.6254,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,81153,2021-09-28 16:53:08.001108
+20,BALKRISIND,400,2545.95,2638.35,2511.8,0.5012,Less,LTL,"No buy, but in Long",crossed below,sell,buy,In Long,85761,2021-09-28 16:53:09.622590
+21,BANDHANBNK,1800,286.65,287.4,282.6,0.4788,Less,Was LTL | 283.0,"No buy, but in Long",crossed above,buy,buy,In Long,579329,2021-09-28 16:53:10.740253
+22,BANKBARODA,11700,79.45,79.7,78.2,0.5209,Was HTH | 79.6,No,"No buy, but in Long",crossed below,buy,buy,In Long,1195009,2021-09-28 16:53:11.691333
+23,BATAINDIA,550,1767.85,1813.0,1742.85,0.3075,Less,Was LTL | 1766.0,"No buy, but in Long",crossed below,sell,sell,In Long,94977,2021-09-28 16:53:12.776376
+24,BEL,3800,210.35,212.4,204.25,0.6815,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,98049,2021-09-28 16:53:13.856883
+25,BERGEPAINT,1100,819.3,830.5,815.0,0.2772,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,103425,2021-09-28 16:53:14.967729
+26,BHARATFORG,1500,755.9,790.05,751.05,0.3679,Was HTH | 785.8,No,"No buy, but in Long",crossed below,sell,sell,In Long,108033,2021-09-28 16:53:16.054640
+27,BHARTIARTL,1851,696.15,726.8,686.05,0.4930,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,2714625,2021-09-28 16:53:17.177944
+28,BHEL,10500,60.35,60.9,56.85,0.5693,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,112129,2021-09-28 16:53:18.270505
+29,BIOCON,2300,361.95,366.5,358.1,0.5144,HTH,No,"No buy, but in Long",crossed below,buy,sell,In Long,2911489,2021-09-28 16:53:19.300848
+30,BOSCHLTD,50,15735.2,16228.65,15600.0,0.3601,Was HTH | 15939.9,No,"No buy, but in Long",crossed below,sell,sell,In Long,558337,2021-09-28 16:53:20.507099
+31,BPCL,1800,429.6,430.25,423.6,0.3268,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,134657,2021-09-28 16:53:21.735100
+32,BRITANNIA,200,4003.65,4068.95,3990.1,0.3064,Was HTH | 4064.6,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,140033,2021-09-28 16:53:22.998245
+33,CADILAHC,2200,544.35,555.0,539.1,0.3821,Less,LTL,"No buy, but in Long",crossed above,sell,buy,In Long,2029825,2021-09-28 16:53:24.008162
+34,CANBK,5400,163.7,164.85,160.0,0.5785,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2763265,2021-09-28 16:53:25.056596
+35,CANFINHOME,975,653.75,674.8,641.1,0.4621,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,149249,2021-09-28 16:53:26.512328
+36,CHOLAFIN,1250,554.75,576.85,551.05,0.3359,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Short,175361,2021-09-28 16:53:27.501815
+37,CIPLA,650,971.0,977.0,950.8,0.5769,HTH,Was LTL | 952.3,"No buy, but in Long",crossed above,buy,buy,In Long,177665,2021-09-28 16:53:28.598282
+38,COALINDIA,4200,174.55,176.3,168.15,0.8385,HTH,No,"No sell, but in Short",crossed below,buy,buy,In Short,5215745,2021-09-28 16:53:29.759699
+39,COFORGE,200,5214.8,5460.0,5150.0,0.5382,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,2955009,2021-09-28 16:53:31.243523
+40,COLPAL,350,1679.4,1688.35,1668.0,0.3156,Less,Was LTL | 1674.0,"No buy, but in Long",crossed above,buy,buy,In Long,3876097,2021-09-28 16:53:32.461240
+41,CONCOR,1563,705.75,729.95,697.75,0.3416,HTH,No,"No buy, but in Long",crossed below,buy,sell,In Long,1215745,2021-09-28 16:53:33.981082
+42,COROMANDEL,625,799.0,806.65,785.2,0.3120,Less,Was LTL | 793.5,"No sell, but in Short",crossed above,buy,buy,In Long,189185,2021-09-28 16:53:35.073433
+43,CUB,3100,150.55,152.85,149.5,0.3403,Was HTH | 151.8,No,"No buy, but in Long",crossed below,sell,sell,In Long,1459457,2021-09-28 16:53:36.211357
+44,CUMMINSIND,600,1001.5,1023.0,995.0,0.4224,Was HTH | 1004.9,No,"No buy, but in Long",crossed below,sell,sell,In Long,486657,2021-09-28 16:53:37.294735
+45,DABUR,1250,626.35,634.3,621.0,0.3665,Less,LTL,"No buy, but in Long",crossed below,sell,buy,In Long,197633,2021-09-28 16:53:38.367195
+46,DEEPAKNTR,500,2400.4,2442.9,2355.0,0.5012,Less,LTL,"No buy, but in Long",crossed below,sell,buy,In Long,5105409,2021-09-28 16:53:39.491680
+47,DIVISLAB,125,4784.05,4965.0,4701.0,0.3066,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,2800641,2021-09-28 16:53:40.608688
+48,DIXON,200,4449.4,4565.0,4405.0,0.8513,Was HTH | 4520.0,No,"No buy, but in Long",crossed below,sell,sell,In Long,5552641,2021-09-28 16:53:41.661622
+49,DLF,3300,410.05,419.2,397.0,0.8426,Less,LTL,"No buy, but in Long",crossed above,buy,buy,In Long,3771393,2021-09-28 16:53:42.771970
+50,DRREDDY,125,4833.15,4854.1,4755.1,0.4737,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,225537,2021-09-28 16:53:43.802505
+51,EICHERMOT,350,2883.05,2944.5,2864.5,0.3757,Less,Was LTL | 2868.35,"No buy, but in Long",crossed below,sell,sell,In Short,232961,2021-09-28 16:53:44.867810
+52,ESCORTS,550,1489.9,1505.0,1455.55,0.8984,HTH,No,"No buy, but in Long",crossed above,buy,buy,buy,245249,2021-09-28 16:53:46.011999
+53,EXIDEIND,3600,179.9,182.9,178.85,0.3414,Less,No,"No buy, but in Long",crossed below,sell,sell,In Long,173057,2021-09-28 16:53:47.214644
+54,FEDERALBNK,10000,80.9,82.0,80.1,0.4237,Less,Was LTL | 81.0,"No buy, but in Long",crossed below,sell,sell,In Long,261889,2021-09-28 16:53:48.302673
+55,GAIL,6100,159.5,161.4,153.1,0.5894,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Short,1207553,2021-09-28 16:53:49.787759
+56,GLENMARK,1150,497.05,506.3,491.45,0.5556,Less,LTL,"No buy, but in Long",crossed below,buy,buy,In Long,1895937,2021-09-28 16:53:50.956615
+57,GMRINFRA,22500,35.85,37.1,35.55,0.6805,Was HTH | 37.0,No,"No sell, but in Short",crossed below,sell,sell,In Long,3463169,2021-09-28 16:53:52.061870
+58,GODREJCP,1000,1053.35,1102.25,1044.0,0.2836,HTH,No,"No buy, but in Long",crossed above,sell,sell,In Long,2585345,2021-09-28 16:53:53.142124
+59,GODREJPROP,650,2234.2,2309.0,2163.15,0.7201,Less,Was LTL | 2187.0,"No buy, but in Long",crossed below,sell,sell,In Long,4576001,2021-09-28 16:53:54.305687
+60,GRANULES,1550,320.35,321.9,317.1,0.2617,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,3039233,2021-09-28 16:53:55.398262
+61,GRASIM,475,1648.75,1684.6,1641.1,0.5526,Was HTH | 1657.25,No,"No sell, but in Short",crossed below,sell,sell,In Short,315393,2021-09-28 16:53:56.437086
+62,GUJGASLTD,1250,617.15,623.0,607.5,0.3004,Was HTH | 622.95,No,"No sell, but in Short",crossed above,buy,buy,In Long,2713345,2021-09-28 16:53:57.539669
+63,HAL,475,1346.6,1366.0,1335.8,0.4169,Was HTH | 1358.0,No,"No sell, but in Short",crossed above,sell,sell,In Short,589569,2021-09-28 16:53:58.529636
+64,HAVELLS,500,1369.85,1404.15,1361.0,0.6036,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Short,2513665,2021-09-28 16:53:59.607854
+65,HCLTECH,700,1269.0,1304.95,1254.05,0.5777,Less,LTL,"No buy, but in Long",crossed above,buy,buy,In Long,1850625,2021-09-28 16:54:00.795876
+66,HDFC,300,2804.95,2850.0,2761.3,0.4324,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,340481,2021-09-28 16:54:01.918858
+67,HDFCAMC,200,3074.35,3177.4,3040.2,0.2652,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Short,1086465,2021-09-28 16:54:02.942301
+68,HDFCBANK,550,1615.05,1632.0,1582.0,0.5897,Less,LTL,"No sell, but in Short",crossed below,sell,buy,In Long,341249,2021-09-28 16:54:04.022628
+69,HDFCLIFE,1100,725.8,733.35,721.5,0.4976,Was HTH | 730.25,No,"No buy, but in Long",crossed below,sell,sell,In Long,119553,2021-09-28 16:54:05.179866
+70,HEROMOTOCO,300,2920.55,2938.9,2891.0,0.6054,Was HTH | 2928.0,No,"No buy, but in Long",crossed above,buy,buy,In Long,345089,2021-09-28 16:54:06.364047
+71,HINDALCO,2150,478.15,486.85,475.05,0.5436,Less,No,"No buy, but in Long",crossed below,sell,sell,In Long,348929,2021-09-28 16:54:07.358153
+72,HINDPETRO,2700,291.6,293.2,277.0,0.6541,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,359937,2021-09-28 16:54:08.527232
+73,HINDUNILVR,300,2723.85,2754.45,2709.9,0.4587,Less,No,"No buy, but in Long",crossed above,buy,sell,In Long,356865,2021-09-28 16:54:09.596274
+74,IBULHSGFIN,3100,226.4,235.0,224.0,0.4190,Was HTH | 234.45,Was LTL | 226.1,"No buy, but in Long",crossed below,sell,sell,In Long,7712001,2021-09-28 16:54:10.624117
+75,ICICIBANK,1375,717.15,734.9,706.65,0.4248,Was HTH | 731.75,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,1270529,2021-09-28 16:54:12.439389
+76,ICICIGI,425,1562.45,1569.95,1546.0,0.3564,Less,Was LTL | 1551.75,"No buy, but in Long",crossed above,buy,buy,In Long,5573121,2021-09-28 16:54:13.504459
+77,ICICIPRULI,1500,664.0,678.05,661.25,0.3556,Less,No,"No buy, but in Long",crossed below,sell,sell,buy,4774913,2021-09-28 16:54:14.618221
+78,IDEA,70000,10.95,11.6,10.85,0.6299,Was HTH | 11.5,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,3677697,2021-09-28 16:54:16.202560
+79,IDFCFIRSTB,9500,46.25,47.3,45.4,0.4566,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,2863105,2021-09-28 16:54:17.247235
+80,IEX,1250,596.35,605.0,586.35,0.4383,Was HTH | 597.4,No,"No buy, but in Long",crossed below,buy,sell,In Long,56321,2021-09-28 16:54:18.334629
+81,IGL,1375,516.6,529.5,515.0,0.3821,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Long,2883073,2021-09-28 16:54:19.404826
+82,INDHOTEL,3900,187.35,194.75,183.5,0.4975,Less,No,"No sell, but in Short",crossed below,sell,sell,In Long,387073,2021-09-28 16:54:20.479406
+83,INDIAMART,75,8386.4,8666.6,8315.05,0.3438,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,2745857,2021-09-28 16:54:21.498009
+84,INDIGO,500,2023.05,2065.0,1985.4,0.4300,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,2865921,2021-09-28 16:54:22.649095
+85,INDUSINDBK,900,1134.75,1160.0,1119.0,0.6117,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,1346049,2021-09-28 16:54:23.653480
+86,INDUSTOWER,2800,320.15,332.6,313.0,0.7815,Was HTH | 326.9,No,"No buy, but in Long",crossed below,sell,sell,In Short,7458561,2021-09-28 16:54:25.234680
+87,INFY,600,1687.1,1710.0,1675.0,0.3887,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,408065,2021-09-28 16:54:26.900710
+88,IOC,6500,122.95,123.9,118.7,0.9076,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,415745,2021-09-28 16:54:27.998771
+89,IPCALAB,225,2350.8,2387.25,2341.7,0.0529,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,418049,2021-09-28 16:54:29.049809
+90,IRCTC,325,3865.6,3975.0,3782.0,0.6827,HTH,No,"No buy, but in Long",crossed below,sell,sell,In Long,3484417,2021-09-28 16:54:30.239763
+91,ITC,3200,237.75,241.6,236.3,0.5791,Less,No,"No sell, but in Short",crossed below,sell,sell,In Long,424961,2021-09-28 16:54:31.472903
+92,JINDALSTEL,2500,361.4,366.0,356.3,0.4484,Was HTH | 362.5,No,"No buy, but in Long",crossed above,buy,sell,In Long,1723649,2021-09-28 16:54:32.491053
+93,JSWSTEEL,1350,660.85,667.9,648.6,0.5665,Was HTH | 663.75,No,"No sell, but in Short",crossed above,buy,buy,In Long,3001089,2021-09-28 16:54:33.545458
+94,JUBLFOOD,250,4001.6,4078.0,3962.75,0.3740,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,4632577,2021-09-28 16:54:34.660146
+95,KOTAKBANK,400,2068.2,2077.65,2013.0,0.7805,HTH,Was LTL | 2025.5,"No buy, but in Long",crossed below,buy,buy,In Long,492033,2021-09-28 16:54:35.754337
+96,L&TFH,8924,88.65,89.75,86.6,0.7402,HTH,No,"No buy, but in Long",crossed below,buy,buy,In Long,6386689,2021-09-28 16:54:36.924175
+97,LALPATHLAB,250,3643.95,3821.45,3600.0,0.2987,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,2983425,2021-09-28 16:54:38.053759
+98,LICHSGFIN,2000,438.25,443.25,432.5,0.4825,Was HTH | 437.65,No,"No buy, but in Long",crossed below,sell,sell,In Long,511233,2021-09-28 16:54:39.973016
+99,LT,575,1737.15,1759.05,1719.0,0.4108,Less,LTL,"No buy, but in Long",crossed above,sell,sell,In Long,2939649,2021-09-28 16:54:41.024469
+100,LTI,150,5771.35,6025.0,5681.15,0.4116,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,4561409,2021-09-28 16:54:42.392806
+101,LTTS,200,4608.05,4767.15,4490.0,0.4611,Less,LTL,"No buy, but in Long",crossed below,sell,buy,In Long,4752385,2021-09-28 16:54:44.034004
+102,LUPIN,850,948.9,953.65,928.2,0.5115,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2672641,2021-09-28 16:54:45.475890
+103,M&M,700,806.05,821.45,796.3,0.7262,Was HTH | 813.75,No,"No buy, but in Long",crossed below,sell,sell,In Long,519937,2021-09-28 16:54:46.773250
+104,M&MFIN,4000,179.75,183.75,177.1,0.6602,Less,Was LTL | 178.95,"No buy, but in Long",crossed below,sell,sell,In Long,3400961,2021-09-28 16:54:47.824087
+105,MANAPPURAM,6000,169.45,173.35,168.3,0.5632,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,4879617,2021-09-28 16:54:48.902630
+106,MARICO,2000,550.95,553.9,545.8,0.4277,Less,No,"No sell, but in Short",crossed above,buy,buy,In Short,1041153,2021-09-28 16:54:50.021787
+107,MARUTI,100,7423.85,7521.55,7335.2,0.7919,Was HTH | 7448.0,No,"No buy, but in Long",crossed below,sell,sell,In Long,2815745,2021-09-28 16:54:51.106591
+108,MCDOWELL-N,1250,826.95,845.5,814.7,0.5228,Was HTH | 834.4,No,"No buy, but in Long",crossed below,buy,sell,In Long,2674433,2021-09-28 16:54:52.781414
+109,MCX,350,1679.1,1744.0,1656.75,0.4976,Was HTH | 1730.0,Was LTL | 1661.05,"No buy, but in Long",crossed below,sell,sell,In Long,7982337,2021-09-28 16:54:53.791380
+110,METROPOLIS,200,2797.5,2963.4,2780.0,0.3068,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,2452737,2021-09-28 16:54:54.779449
+111,MFSL,650,1003.0,1034.8,984.0,0.3638,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,548353,2021-09-28 16:54:56.338639
+112,MGL,600,1079.6,1095.5,1075.1,0.3086,Less,No,"No buy, but in Long",crossed below,sell,sell,In Long,4488705,2021-09-28 16:54:57.402742
+113,MINDTREE,400,4207.9,4366.7,4135.0,0.4716,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,3675137,2021-09-28 16:54:59.248858
+114,MOTHERSUMI,3500,230.85,235.8,227.1,0.4894,Was HTH | 234.4,No,"No buy, but in Long",crossed below,sell,sell,In Long,1076225,2021-09-28 16:55:00.332836
+115,MPHASIS,325,3154.7,3243.1,3039.95,0.3681,Less,LTL,"No sell, but in Short",crossed above,buy,buy,In Long,1152769,2021-09-28 16:55:01.386247
+116,MRF,10,80488.6,81890.0,79810.0,0.2876,Less,No,"No buy, but in Long",crossed below,sell,sell,In Long,582913,2021-09-28 16:55:02.536170
+117,MUTHOOTFIN,750,1463.45,1498.45,1459.5,0.5103,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Short,6054401,2021-09-28 16:55:03.570005
+118,NAM-INDIA,1600,431.45,439.55,429.3,0.3425,Less,No,"No sell, but in Short",crossed below,sell,sell,In Short,91393,2021-09-28 16:55:04.781792
+119,NATIONALUM,17000,89.0,91.0,87.8,0.5347,Less,No,"No buy, but in Long",crossed below,sell,sell,In Long,1629185,2021-09-28 16:55:06.404587
+120,NAUKRI,125,6755.45,6786.0,6622.0,0.5541,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,3520257,2021-09-28 16:55:07.424871
+121,NAVINFLUOR,225,3720.25,3815.0,3698.15,0.2996,Less,LTL,"No sell, but in Short",crossed above,sell,sell,In Short,3756033,2021-09-28 16:55:08.615763
+122,NESTLEIND,50,19544.75,19718.65,19459.05,0.3826,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Long,4598529,2021-09-28 16:55:09.690703
+123,NMDC,6700,140.5,142.85,139.15,0.4734,Was HTH | 141.35,No,"No sell, but in Short",crossed below,sell,sell,In Long,3924993,2021-09-28 16:55:10.711566
+124,NTPC,5700,131.95,133.65,127.5,0.7184,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,2977281,2021-09-28 16:55:11.805020
+125,OFSS,125,4578.25,4617.6,4480.0,0.2877,Less,Was LTL | 4549.1,"No buy, but in Long",crossed below,buy,buy,In Long,2748929,2021-09-28 16:55:12.855851
+126,ONGC,7700,142.2,143.6,141.0,0.6861,HTH,No,"No sell, but in Short",crossed above,buy,sell,In Short,633601,2021-09-28 16:55:13.898654
+127,PAGEIND,30,32726.05,33147.65,32190.0,0.2885,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,3689729,2021-09-28 16:55:15.425403
+128,PEL,275,2683.5,2782.9,2616.55,0.4597,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,617473,2021-09-28 16:55:16.416201
+129,PETRONET,3000,239.4,241.8,236.6,0.5064,HTH,No,"No buy, but in Long",crossed above,buy,sell,In Short,2905857,2021-09-28 16:55:17.970815
+130,PFC,6200,143.1,144.65,136.2,0.6476,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,3660545,2021-09-28 16:55:19.018658
+131,PFIZER,125,5629.65,5695.85,5592.2,0.1125,Less,Was LTL | 5605.0,"No buy, but in Long",crossed below,buy,buy,buy,676609,2021-09-28 16:55:20.141306
+132,PIDILITIND,500,2411.0,2417.9,2375.0,0.4563,Less,Was LTL | 2400.0,"No buy, but in Long",crossed above,buy,buy,In Long,681985,2021-09-28 16:55:21.791562
+133,PIIND,250,3114.55,3174.0,3101.0,0.3828,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,6191105,2021-09-28 16:55:23.297554
+134,PNB,16000,39.15,39.7,38.4,0.4921,HTH,No,"No buy, but in Long",crossed below,buy,buy,In Long,2730497,2021-09-28 16:55:24.416565
+135,POLYCAB,300,2349.0,2403.75,2322.0,0.2769,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Long,2455041,2021-09-28 16:55:25.434710
+136,POWERGRID,4000,183.95,188.65,176.1,0.5526,HTH,No,"No sell, but in Short",crossed below,buy,sell,In Short,3834113,2021-09-28 16:55:26.630609
+137,PVR,407,1599.4,1609.55,1548.0,0.4708,Less,Was LTL | 1575.4,"No buy, but in Long",crossed above,buy,buy,In Long,3365633,2021-09-28 16:55:27.651667
+138,RAMCOCEM,850,983.9,997.0,970.75,0.1679,Was HTH | 987.2,No,"No buy, but in Long",crossed above,sell,sell,In Long,523009,2021-09-28 16:55:28.692898
+139,RBLBANK,2900,187.4,191.05,184.15,0.6672,Was HTH | 191.0,Was LTL | 185.8,"No buy, but in Long",crossed below,sell,sell,In Long,4708097,2021-09-28 16:55:30.359131
+140,RECLTD,6000,159.3,162.0,151.75,0.6735,HTH,No,"No sell, but in Short",crossed below,buy,buy,In Short,3930881,2021-09-28 16:55:31.359232
+141,RELIANCE,250,2548.05,2564.9,2512.8,0.7331,HTH,No,"No buy, but in Long",crossed below,buy,buy,In Long,738561,2021-09-28 16:55:32.388769
+142,SAIL,9500,110.35,111.5,109.05,0.4713,HTH,No,"No buy, but in Long",crossed above,sell,sell,In Long,758529,2021-09-28 16:55:33.454556
+143,SBILIFE,750,1210.3,1229.15,1202.3,0.3970,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Long,5582849,2021-09-28 16:55:35.121714
+144,SBIN,1500,444.9,455.8,439.85,0.5523,Was HTH | 450.55,Was LTL | 442.25,"No buy, but in Long",crossed below,sell,sell,In Long,779521,2021-09-28 16:55:36.296228
+145,SHREECEM,25,29242.95,29800.0,29090.6,0.3032,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,794369,2021-09-28 16:55:37.818297
+146,SIEMENS,275,2101.0,2139.0,2085.5,0.2965,Was HTH | 2128.85,Was LTL | 2090.5,"No sell, but in Short",crossed below,sell,sell,In Long,806401,2021-09-28 16:55:39.106827
+147,SRF,125,10921.95,11179.9,10750.05,0.8376,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,837889,2021-09-28 16:55:40.486525
+148,SRTRANSFIN,400,1313.2,1345.65,1293.0,0.4097,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,1102337,2021-09-28 16:55:41.520049
+149,STAR,675,585.85,597.65,580.15,0.3235,Less,LTL,"No buy, but in Long",crossed above,sell,sell,In Long,1887745,2021-09-28 16:55:42.541859
+150,SUNPHARMA,1400,775.1,791.0,755.0,0.2537,HTH,Was LTL | 760.1,"No buy, but in Long",crossed above,buy,buy,In Long,857857,2021-09-28 16:55:44.539378
+151,SUNTV,1500,498.6,509.4,496.0,0.4280,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,3431425,2021-09-28 16:55:45.631579
+152,SYNGENE,850,616.3,645.0,614.0,0.3161,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,2622209,2021-09-28 16:55:46.756334
+153,TATACHEM,1000,906.4,926.7,901.0,1.3780,Less,No,"No buy, but in Long",crossed below,sell,sell,In Short,871681,2021-09-28 16:55:47.835241
+154,TATACONSUM,1350,822.7,837.4,817.0,0.3779,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Long,878593,2021-09-28 16:55:48.927560
+155,TATAMOTORS,2850,329.3,335.95,324.5,0.6827,Was HTH | 333.6,No,"No buy, but in Long",crossed below,sell,sell,In Long,884737,2021-09-28 16:55:49.923324
+156,TATAPOWER,6750,140.05,142.85,139.05,0.4593,Was HTH | 140.4,No,"No sell, but in Short",crossed below,sell,sell,In Short,877057,2021-09-28 16:55:50.992841
+157,TATASTEEL,850,1280.95,1296.7,1263.0,0.4509,Was HTH | 1288.7,No,"No sell, but in Short",crossed above,sell,sell,In Long,895745,2021-09-28 16:55:52.077172
+158,TCS,300,3779.15,3850.0,3751.9,0.4944,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,2953217,2021-09-28 16:55:53.291432
+159,TECHM,600,1414.05,1465.0,1408.4,0.3508,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,3465729,2021-09-28 16:55:54.381507
+160,TITAN,375,2129.3,2137.8,2083.2,0.8141,HTH,No,"No buy, but in Long",crossed below,buy,buy,In Long,897537,2021-09-28 16:55:55.508860
+161,TORNTPHARM,250,3107.85,3116.45,3035.8,0.2927,Less,Was LTL | 3073.0,"No buy, but in Long",crossed above,buy,buy,In Long,900609,2021-09-28 16:55:56.628511
+162,TORNTPOWER,1500,503.25,517.2,492.25,0.2726,HTH,No,"No sell, but in Short",crossed above,buy,sell,In Short,3529217,2021-09-28 16:55:58.516614
+163,TRENT,725,1013.95,1019.7,993.95,0.2854,HTH,No,"No sell, but in Short",crossed above,buy,sell,In Short,502785,2021-09-28 16:55:59.529441
+164,TVSMOTOR,1400,555.6,561.8,544.05,0.3927,Was HTH | 557.0,No,"No buy, but in Long",crossed above,buy,buy,In Long,2170625,2021-09-28 16:56:01.150463
+165,UBL,700,1564.7,1580.0,1548.95,0.4761,Less,No,"No buy, but in Long",crossed below,buy,buy,In Long,4278529,2021-09-28 16:56:02.350052
+166,ULTRACEMCO,100,7588.3,7788.0,7550.0,0.4226,Was HTH | 7670.85,No,"No buy, but in Long",crossed below,sell,sell,In Long,2952193,2021-09-28 16:56:03.378669
+167,UPL,1300,716.8,732.9,710.25,0.4111,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,2889473,2021-09-28 16:56:04.882581
+168,VEDL,3100,290.65,294.85,285.4,0.5524,Was HTH | 293.9,Was LTL | 286.9,"No sell, but in Short",crossed below,sell,sell,In Short,784129,2021-09-28 16:56:06.041884
+169,VOLTAS,500,1208.95,1223.4,1189.55,0.7794,Less,Was LTL | 1204.55,"No buy, but in Long",crossed above,buy,buy,In Long,951809,2021-09-28 16:56:07.176795
+170,WIPRO,1600,639.6,653.9,635.25,0.4092,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Short,969473,2021-09-28 16:56:08.775378
+171,ZEEL,3000,309.15,322.8,307.35,0.9319,Less,No,"No sell, but in Short",crossed below,sell,sell,In Short,975873,2021-09-28 16:56:09.854337

@@ -1,0 +1,8 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,ACC,500,YES,2236.3,2244.95,2210.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,5633,2021-10-27 01:49:26.145346
+1,AMBUJACEM,3000,YES,380.35,381.3,373.25,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,325121,2021-10-27 01:49:33.579609
+2,COROMANDEL,625,NO,807.9,816.25,799.05,0,Less,No,"No buy, but in Long",crossed above,sell,sell,In Long,189185,2021-10-27 01:49:40.896358
+3,GRASIM,475,YES,1739.4,1767.0,1704.25,0,HTH,No,"No buy, but in Long",crossed below,buy,sell,In Short,315393,2021-10-27 01:49:48.521793
+4,RAMCOCEM,850,NO,1014.85,1021.0,936.55,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,523009,2021-10-27 01:49:54.894496
+5,SHREECEM,25,YES(1st Priority),27777.9,27995.0,27319.0,0,HTH,No,"No sell, but in Short",crossed above,buy,buy,buy,794369,2021-10-27 01:49:58.776092
+6,ULTRACEMCO,100,YES(1st Priority),7269.1,7295.0,7150.0,0,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,2952193,2021-10-27 01:50:02.546515

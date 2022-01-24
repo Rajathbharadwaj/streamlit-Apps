@@ -1,0 +1,19 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,AMARAJABAT,1000,NO,699.85,702.35,692.6,0,Less,No,"No sell, but in Short",crossed above,buy,buy,In Long,25601,2021-10-27 02:04:12.302352
+1,APOLLOTYRE,2500,YES,219.05,221.4,215.75,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,41729,2021-10-27 02:04:19.805005
+2,ASHOKLEY,4500,NO,143.35,143.95,136.9,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,54273,2021-10-27 02:04:26.925650
+3,BAJAJ-AUTO,250,Not Sure,3791.75,3811.8,3762.25,0,Less,No,"No sell, but in Short",crossed above,buy,buy,In Short,4267265,2021-10-27 02:04:30.838251
+4,BALKRISIND,400,YES,2492.2,2504.9,2380.5,0,HTH,Was LTL | 2402.95,"No buy, but in Long",crossed above,buy,buy,In Short,85761,2021-10-27 02:04:39.291431
+5,BHARATFORG,1500,YES,785.9,788.0,758.05,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,108033,2021-10-27 02:04:47.174672
+6,BOSCHLTD,50,YES (1st priority ),17021.8,17079.0,16660.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,558337,2021-10-27 02:04:56.585296
+7,CUMMINSIND,600,YES,875.35,887.0,865.35,0,Less,No,"No buy, but in Long",crossed below,buy,buy,In Long,486657,2021-10-27 02:05:02.892518
+8,EICHERMOT,350,YES,2590.25,2613.0,2571.95,0,Less,No,"No sell, but in Short",crossed above,buy,sell,In Short,232961,2021-10-27 02:05:07.218531
+9,ESCORTS,550,YES,1544.45,1549.65,1486.25,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,245249,2021-10-27 02:05:14.737525
+10,EXIDEIND,3600,NO,176.65,177.35,174.2,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,173057,2021-10-27 02:05:21.913180
+11,HEROMOTOCO,300,YES,2700.5,2708.0,2685.0,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,345089,2021-10-27 02:05:32.684690
+12,M&M,700,NO,894.55,900.0,884.0,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,519937,2021-10-27 02:05:40.730673
+13,MARUTI,100,NO,7297.35,7337.95,7210.2,0,Less,Was LTL | 7219.65,"No buy, but in Long",crossed above,buy,buy,In Long,2815745,2021-10-27 02:05:49.887312
+14,MOTHERSUMI,3500,NO,227.05,228.55,221.3,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,1076225,2021-10-27 02:05:56.179194
+15,MRF,10,YES (1st priority ),80093.75,80500.0,79283.7,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Short,582913,2021-10-27 02:06:01.119717
+16,TATAMOTORS,2850,NO,508.65,510.0,483.25,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,884737,2021-10-27 02:06:10.251148
+17,TVSMOTOR,1400,NO,625.9,629.35,600.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2170625,2021-10-27 02:06:17.048173

@@ -1,0 +1,18 @@
+,name,ltq,PCR,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,ALKEM,200,0.2875,"No buy, but in Long",crossed above,buy,buy,In Long,2995969,2021-09-23 13:09:27.851505
+1,APLLTD,250,0.3461,"No sell, but in Short",crossed below,buy,sell,In Short,6483969,2021-09-23 13:09:29.597116
+2,APOLLOHOSP,550,0.4159,"No buy, but in Long",crossed above,buy,buy,In Long,40193,2021-09-23 13:09:30.901075
+3,AUROPHARMA,650,0.5379,"No sell, but in Short",crossed below,sell,sell,In Short,70401,2021-09-23 13:09:34.819036
+4,BIOCON,2300,0.4801,"No sell, but in Short",crossed below,sell,sell,In Short,2911489,2021-09-23 13:09:38.697937
+5,CADILAHC,2200,0.4265,"No buy, but in Long",crossed above,buy,sell,In Short,2029825,2021-09-23 13:09:40.020946
+6,CIPLA,650,0.5812,"No buy, but in Long",crossed below,sell,sell,In Long,177665,2021-09-23 13:09:41.418025
+7,DIVISLAB,200,0.4601,"No buy, but in Long",crossed above,buy,buy,In Long,2800641,2021-09-23 13:09:42.907430
+8,DRREDDY,250,0.5211,"No sell, but in Short",crossed below,sell,sell,In Long,225537,2021-09-23 13:09:44.068641
+9,GLENMARK,125,0.5460,"No sell, but in Short",crossed below,sell,sell,In Short,1895937,2021-09-23 13:09:47.964169
+10,IPCALAB,1150,0.0976,"No sell, but in Short",crossed below,sell,sell,In Short,418049,2021-09-23 13:09:51.930889
+11,LALPATHLAB,225,0.2914,"No sell, but in Short",crossed above,buy,buy,In Long,2983425,2021-09-23 13:09:53.313555
+12,LUPIN,850,0.4771,"No buy, but in Long",crossed below,buy,buy,In Long,2672641,2021-09-23 13:09:57.131340
+13,PFIZER,125,0.1092,"No sell, but in Short",crossed above,buy,buy,In Long,676609,2021-09-23 13:10:00.997116
+14,STAR,1400,0.3711,"No sell, but in Short",crossed below,sell,sell,In Short,1887745,2021-09-23 13:10:02.568987
+15,SUNPHARMA,675,0.2512,"No sell, but in Short",crossed below,sell,sell,In Short,857857,2021-09-23 13:10:04.183313
+16,TORNTPHARM,250,0.2373,"No buy, but in Long",crossed below,buy,buy,In Long,900609,2021-09-23 13:10:05.467248

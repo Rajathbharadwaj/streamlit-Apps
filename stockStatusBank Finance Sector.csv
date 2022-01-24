@@ -1,0 +1,38 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,AUBANK,500,NO (If momentum is strong then trade can be done),1260.95,1268.45,1207.85,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,5436929,2021-10-27 01:45:36.090162
+1,AXISBANK,1200,NO,841.9,851.65,823.5,0,Less,Was LTL | 825.45,"No sell, but in Short",crossed above,buy,buy,In Short,1510401,2021-10-27 01:45:40.326059
+2,BAJAJFINSV,75,YES(1st priority ),18353.35,18450.0,17975.05,0,Less,Was LTL | 18000.0,"No buy, but in Long",crossed above,buy,buy,In Long,4268801,2021-10-27 01:45:51.425090
+3,BAJFINANCE,125,YES(1st priority ),7855.65,7894.95,7651.1,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,81153,2021-10-27 01:45:59.293045
+4,BANDHANBNK,1800,NO,305.4,315.8,299.2,0,Less,LTL,"No buy, but in Long",crossed below,sell,sell,In Long,579329,2021-10-27 01:46:06.438193
+5,BANKBARODA,11700,NO,99.9,103.4,96.5,0,Was HTH | 100.2,No,"No buy, but in Long",crossed below,buy,sell,buy,1195009,2021-10-27 01:46:10.626518
+6,CANBK,5400,NO,193.35,207.5,191.25,0,Was HTH | 206.75,LTL,"No sell, but in Short",crossed below,sell,sell,In Short,2763265,2021-10-27 01:46:14.453927
+7,CANFINHOME,975,NO,656.45,669.6,646.0,0,Was HTH | 668.05,No,"No buy, but in Long",crossed below,buy,sell,In Long,149249,2021-10-27 01:46:21.200421
+8,CHOLAFIN,1250,YES,604.9,611.75,578.35,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,175361,2021-10-27 01:46:27.972700
+9,CUB,3100,NO,181.05,183.95,175.2,0,HTH,No,"No buy, but in Long",crossed below,buy,buy,In Long,1459457,2021-10-27 01:46:34.921267
+10,FEDERALBNK,10000,NO,102.0,104.7,101.65,0,Less,No,"No sell, but in Short",crossed below,sell,sell,In Short,261889,2021-10-27 01:46:38.953911
+11,HDFC,300,NO NO,2911.65,2934.0,2896.0,0,Was HTH | 2919.0,No,"No buy, but in Long",crossed below,buy,buy,In Short,340481,2021-10-27 01:46:43.298047
+12,HDFCAMC,200,YES(2nd priority ),2736.15,2770.0,2679.6,0,Less,Was LTL | 2727.0,"No buy, but in Long",crossed above,buy,buy,In Long,1086465,2021-10-27 01:46:50.622948
+13,HDFCBANK,550,NO,1652.75,1673.85,1646.35,0,Less,No,"No sell, but in Short",crossed below,sell,sell,In Short,341249,2021-10-27 01:46:54.636389
+14,HDFCLIFE,1100,NO,690.05,695.0,684.1,0,Was HTH | 693.55,No,"No sell, but in Short",crossed below,buy,sell,In Short,119553,2021-10-27 01:46:58.876739
+15,IBULHSGFIN,3100,YES(1st priority ),228.2,229.9,222.5,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,7712001,2021-10-27 01:47:06.314797
+16,ICICIBANK,1375,NO,829.4,841.7,822.35,0,Less,No,"No buy, but in Long",crossed below,buy,buy,In Long,1270529,2021-10-27 01:47:14.057276
+17,ICICIGI,425,,1505.75,1518.9,1493.4,0,Was HTH | 1508.4,No,"No sell, but in Short",crossed above,buy,buy,In Long,5573121,2021-10-27 01:47:21.388428
+18,ICICIPRULI,1500,YES,622.65,629.0,617.5,0,Was HTH | 624.0,No,"No buy, but in Long",crossed below,sell,sell,In Short,4774913,2021-10-27 01:47:25.352824
+19,IDFCFIRSTB,9500,NO,52.85,53.0,49.55,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2863105,2021-10-27 01:47:32.322502
+20,INDUSINDBK,900,NO,1154.9,1193.0,1137.7,0,Less,LTL,"No buy, but in Long",crossed above,sell,sell,In Long,1346049,2021-10-27 01:47:39.222108
+21,KOTAKBANK,400,YES,2210.95,2240.0,2123.7,0,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Long,492033,2021-10-27 01:47:48.812795
+22,L&TFH,8924,NO,84.85,85.15,81.5,0,Less,No,"No sell, but in Short",crossed above,buy,buy,In Long,6386689,2021-10-27 01:47:58.151519
+23,LICHSGFIN,2000,YES,405.8,408.2,398.65,0,Less,No,"No sell, but in Short",crossed below,buy,buy,In Short,511233,2021-10-27 01:48:02.278434
+24,M&MFIN,4000,NO,188.2,189.35,179.35,0,Was HTH | 188.55,No,"No buy, but in Long",crossed above,buy,buy,In Long,3400961,2021-10-27 01:48:09.133461
+25,MANAPPURAM,6000,YES,204.5,207.9,200.0,0,HTH,No,"No buy, but in Long",crossed above,buy,sell,In Long,4879617,2021-10-27 01:48:16.485208
+26,MFSL,650,YES,975.9,993.9,954.65,0,Was HTH | 979.85,No,"No sell, but in Short",crossed below,buy,buy,In Short,548353,2021-10-27 01:48:20.362518
+27,MUTHOOTFIN,750,In between,1529.3,1542.0,1504.0,0,Less,Was LTL | 1506.65,"No sell, but in Short",crossed above,buy,buy,In Long,6054401,2021-10-27 01:48:27.212309
+28,NAM-INDIA,1600,NO,430.95,442.0,425.0,0,Less,Was LTL | 427.05,"No buy, but in Long",crossed below,sell,sell,In Short,91393,2021-10-27 01:48:31.673203
+29,PEL,275,YES(1st priority ),2673.2,2703.3,2595.2,0,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,617473,2021-10-27 01:48:36.362042
+30,PFC,6200,"YES (very slow movement, 2-3 days time good returns)",137.2,140.0,135.75,0,Was HTH | 138.0,No,"No buy, but in Long",crossed below,sell,sell,In Short,3660545,2021-10-27 01:48:40.111398
+31,PNB,16000,NO,45.85,47.6,45.2,0,HTH,No,"No buy, but in Long",crossed below,sell,sell,In Long,2730497,2021-10-27 01:48:46.384713
+32,RBLBANK,2900,NO,210.85,212.75,205.3,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,4708097,2021-10-27 01:48:55.107227
+33,RECLTD,6000,YES,151.7,153.45,148.0,0,Was HTH | 152.05,No,"No sell, but in Short",crossed below,buy,buy,In Short,3930881,2021-10-27 01:48:59.030164
+34,SBILIFE,750,NO,1172.05,1178.3,1134.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Short,5582849,2021-10-27 01:49:06.971581
+35,SBIN,1500,In between,512.55,518.2,507.6,0,Was HTH | 515.45,No,"No sell, but in Short",crossed above,buy,sell,In Short,779521,2021-10-27 01:49:11.050474
+36,SRTRANSFIN,400,In between,1525.9,1588.0,1496.6,0,Was HTH | 1540.25,No,"No buy, but in Long",crossed above,sell,sell,In Long,1102337,2021-10-27 01:49:18.200491

@@ -1,0 +1,2 @@
+,Name,PurchaseTime,boughtPrice,ltpCE,ltpPE,PnL,PnLMul,CEorPE,Underlying,Bought At,strikeCE,strikePE,exitTime,Reason,Exit At
+0,BANKNIFTY,2022-01-24 20:05:02.552162,289.95,259.0,289.95,0.0,0.0,PE,36947.55,36947.55,BANKNIFTY22JAN37200CE,BANKNIFTY22JAN36600PE,2022-01-24 20:04:57.356193,LTP at 20:05 is 289.95 greater than highest high of 121.8,289.95

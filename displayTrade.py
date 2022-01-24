@@ -5,7 +5,7 @@ from dummy import variable
 import pandas as pd
 
 st.set_page_config(
-   page_title="Predict stocks",
+   page_title="Traded status",
    page_icon="🧊",
    layout="wide",
    initial_sidebar_state="expanded", )
@@ -21,8 +21,8 @@ def colorChanger(val):
 
 try:
     
-    st.title('Banknifty')
-    banknifty = open(f'/home/rajathdb/D/Automated-Trading/ubuntu/banknifty{str(datetime.date.today())}.txt')
+    st.title('BAJFINANCE')
+    banknifty = open(f'/Users/rajathdb/D/Automated-Trading/macosx/BAJFINANCE{str(datetime.date.today())}.txt')
     linesbn = banknifty.read()
     lst = []
     for d in eval(linesbn):
@@ -45,19 +45,20 @@ except Exception as e:
     st.warning(e) 
 
 
-try:       
-    st.title('ULTRACEMCO')
-    nifty = open(f'/home/rajathdb/D/Automated-Trading/ubuntu/ULTRACEMCO{str(datetime.date.today())}.txt')
-    linesn = nifty.read()
-    lst = []
-    for d in eval(linesn):
-        lst.append(d)
+# try:       
+#     st.title('ULTRACEMCO')
+#     nifty = open(f'/Users/rajathdb/D/Automated-Trading/macosx/ULTRACEMCO{str(datetime.date.today())}.txt')
+#     linesn = nifty.read()
+#     lst = []
+#     for d in eval(linesn):
+#         lst.append(d)
     
-    df = pd.DataFrame.from_dict(lst).set_index('PurchaseTime')
+#     df = pd.DataFrame.from_dict(lst).set_index('PurchaseTime')
     
-    styled = df.style.applymap(colorChanger)
+#     styled = df.style.applymap(colorChanger)
     
-    st.dataframe(styled)
-    st.info(f"The total Profit is {df['PnLMul'].sum()} and total number of trades till now are {len(df)}")
-except Exception as e:
-    st.warning(e)
+#     st.dataframe(styled)
+#     st.info(f"The total Profit is {df['PnLMul'].sum()} and total number of trades till now are {len(df)}")
+    
+# except Exception as e:
+#     st.warning(e)

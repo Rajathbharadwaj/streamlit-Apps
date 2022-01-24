@@ -1,0 +1,16 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,ABFRL,1000,YES (1st Priority),260.25,261.9,249.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,7707649,2021-10-27 02:01:41.733952
+1,ADANIENT,2600,YES (1st Priority),1543.85,1557.25,1520.9,0,Was HTH | 1551.4,No,"No sell, but in Short",crossed above,buy,sell,In Short,6401,2021-10-27 02:01:45.854085
+2,BEL,3800,NO,206.2,207.25,201.1,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,98049,2021-10-27 02:01:54.721710
+3,BHARATFORG,1500,YES ,785.9,788.0,758.05,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,108033,2021-10-27 02:02:01.742689
+4,BHEL,10500,NO,71.65,72.1,68.65,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,112129,2021-10-27 02:02:09.335937
+5,CONCOR,1563,YES,676.5,681.15,667.0,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,1215745,2021-10-27 02:02:16.117811
+6,HAL,475,YES (1st Priority),1324.9,1335.0,1313.4,0,Less,No,"No buy, but in Long",crossed below,sell,sell,In Short,589569,2021-10-27 02:02:20.044142
+7,INDHOTEL,3900,Inbetween,207.45,212.5,204.9,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,387073,2021-10-27 02:02:27.857247
+8,INDIAMART,500,YES (1st Priority),7244.55,7488.85,7165.0,0,Less,LTL,"No buy, but in Long",crossed above,buy,buy,In Short,2745857,2021-10-27 02:02:31.840036
+9,INDIGO,75,YES (1st Priority),2021.2,2030.0,1989.3,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,2865921,2021-10-27 02:02:39.979144
+10,MCDOWELL-N,1250,YES (1st Priority),834.45,844.95,826.75,0,Was HTH | 837.25,No,"No buy, but in Long",crossed below,buy,buy,buy,2674433,2021-10-27 02:02:44.017416
+11,MCX,350,YES,1712.0,1727.1,1640.4,0,Less,Was LTL | 1656.95,"No buy, but in Long",crossed above,buy,buy,In Short,7982337,2021-10-27 02:02:48.203243
+12,NAUKRI,125,YES,6069.65,6150.0,5903.05,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,3520257,2021-10-27 02:02:55.588620
+13,SYNGENE,850,YES,549.6,570.0,547.5,0,Less,LTL,"No sell, but in Short",crossed below,sell,sell,In Short,2622209,2021-10-27 02:03:00.016975
+14,UBL,700,YES,1663.95,1671.3,1625.0,0,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,4278529,2021-10-27 02:03:04.403702

@@ -1,0 +1,4 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,PVR,407,YES,1758.6,1798.0,1734.15,0,Was HTH | 1768.05,No,"No buy, but in Long",crossed above,buy,sell,buy,3365633,2021-10-27 01:55:43.304953
+1,SUNTV,1500,NO,568.2,574.8,557.4,0,Was HTH | 571.05,No,"No buy, but in Long",crossed above,buy,buy,In Long,3431425,2021-10-27 01:55:49.618760
+2,ZEEL,3000,YES,317.5,325.0,300.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,975873,2021-10-27 01:55:57.235972

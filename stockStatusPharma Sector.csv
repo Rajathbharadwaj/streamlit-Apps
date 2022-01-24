@@ -1,0 +1,22 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,ALKEM,200,NO,3695.85,3724.8,3670.2,0,Less,No,"No sell, but in Short",crossed above,sell,sell,In Short,2995969,2021-10-27 01:58:56.884377
+1,APLLTD,550,NO,756.95,767.2,741.0,0,Less,Was LTL | 754.8,"No buy, but in Long",crossed above,buy,buy,In Long,6483969,2021-10-27 01:59:05.165980
+2,APOLLOHOSP,250,YES (1st Priority),4267.95,4308.5,4135.55,0,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,40193,2021-10-27 01:59:09.270060
+3,ASTRAL,275,NO,2128.5,2177.5,2097.55,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,3691009,2021-10-27 01:59:17.198672
+4,AUROPHARMA,650,NO,703.5,705.5,683.4,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,70401,2021-10-27 01:59:25.730660
+5,BIOCON,2300,NO,333.55,334.7,320.1,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2911489,2021-10-27 01:59:33.467820
+6,CADILAHC,2200,NO,508.8,510.0,497.95,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2029825,2021-10-27 01:59:40.867697
+7,CIPLA,650,NO,907.5,914.15,900.0,0,Was HTH | 913.0,No,"No sell, but in Short",crossed above,buy,sell,In Long,177665,2021-10-27 01:59:49.061046
+8,DIVISLAB,200,NO,5018.9,5074.0,4972.1,0,Was HTH | 5070.0,No,"No buy, but in Long",crossed above,buy,buy,In Long,2800641,2021-10-27 01:59:57.077800
+9,DRREDDY,125,NO,4666.2,4698.8,4637.0,0,Less,No,"No sell, but in Short",crossed above,sell,sell,In Short,225537,2021-10-27 02:00:01.133943
+10,GLENMARK,1150,NO,507.9,509.55,487.65,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,1895937,2021-10-27 02:00:08.194180
+11,GRANULES,1550,NO,317.65,319.45,314.85,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,3039233,2021-10-27 02:00:15.816894
+12,IPCALAB,225,YES,2189.5,2268.0,2171.0,0,Less,LTL,"No sell, but in Short",crossed above,sell,sell,In Short,418049,2021-10-27 02:00:20.088934
+13,LALPATHLAB,250,YES ,3556.45,3579.0,3416.05,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2983425,2021-10-27 02:00:26.986759
+14,LUPIN,850,,929.8,939.85,924.0,0,Was HTH | 934.0,No,"No buy, but in Long",crossed below,sell,sell,In Long,2672641,2021-10-27 02:00:35.468514
+15,METROPOLIS,200,YES (1st Priority),2922.05,2941.0,2796.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2452737,2021-10-27 02:00:42.571239
+16,PFIZER,125,YES occasionally,4979.05,5055.0,4918.0,0,Less,Was LTL | 4963.15,"No sell, but in Short",crossed above,sell,buy,In Short,676609,2021-10-27 02:00:46.829422
+17,STAR,1400,NO,538.15,543.75,530.7,0,Less,No,"No buy, but in Long",crossed below,buy,buy,In Short,1887745,2021-10-27 02:00:50.682215
+18,SUNPHARMA,675,NO,813.5,823.9,806.3,0,Was HTH | 821.25,No,"No buy, but in Long",crossed above,buy,buy,In Long,857857,2021-10-27 02:00:58.588392
+19,TORNTPHARM,250,YES,2944.25,3114.8,2935.05,0,Less,No,"No sell, but in Short",crossed below,sell,sell,In Short,900609,2021-10-27 02:01:02.630072
+20,TRENT,725,NO,1041.45,1054.25,1016.5,0,Less,No,"No sell, but in Short",crossed above,buy,buy,In Long,502785,2021-10-27 02:01:09.630024

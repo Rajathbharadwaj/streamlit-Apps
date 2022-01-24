@@ -1,0 +1,4 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,BHARTIARTL,1851,YES,696.2,709.85,689.0,0,Was HTH | 704.0,No,"No sell, but in Short",crossed above,buy,sell,In Long,2714625,2021-10-27 02:01:24.166257
+1,IDEA,70000,NO,10.4,10.75,10.2,0,Was HTH | 10.6,No,"No sell, but in Short",crossed below,sell,sell,In Short,3677697,2021-10-27 02:01:28.097103
+2,INDUSTOWER,2800,YES,281.45,304.0,278.0,0,Was HTH | 302.65,LTL,"No buy, but in Long",crossed above,buy,sell,In Long,7458561,2021-10-27 02:01:34.955925

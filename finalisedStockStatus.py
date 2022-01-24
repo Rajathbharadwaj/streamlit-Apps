@@ -17,7 +17,7 @@ def colorChanger(val):
 
 
 st.set_page_config(
-   page_title="Stock status",
+   page_title="Stocks to Buy",
    page_icon="🧊",
    layout="wide",
    initial_sidebar_state="expanded", )

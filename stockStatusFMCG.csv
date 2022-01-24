@@ -1,0 +1,11 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,BATAINDIA,550,NO,1989.5,2004.8,1957.0,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,94977,2021-10-27 01:53:04.491944
+1,BRITANNIA,200,YES (1st priority ),3692.8,3705.05,3605.85,0,Was HTH | 3696.55,Was LTL | 3617.7,"No buy, but in Long",crossed above,buy,buy,In Long,140033,2021-10-27 01:53:13.482370
+2,COLPAL,350,In between,1546.6,1549.75,1520.0,0,Less,Was LTL | 1525.0,"No buy, but in Long",crossed above,buy,buy,In Long,3876097,2021-10-27 01:53:20.723887
+3,DABUR,1250,NO,581.35,583.95,574.45,0,Less,Was LTL | 576.55,"No buy, but in Long",crossed above,buy,buy,In Long,197633,2021-10-27 01:53:29.026617
+4,HINDUNILVR,300,YES,2436.85,2468.9,2417.05,0,Was HTH | 2463.55,No,"No buy, but in Long",crossed above,buy,buy,In Long,356865,2021-10-27 01:53:37.765479
+5,ITC,3200,NO,236.7,239.0,232.6,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,424961,2021-10-27 01:53:49.950830
+6,MARICO,2000,YES,563.25,565.0,551.05,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,1041153,2021-10-27 01:53:58.246429
+7,MCDOWELL-N,1250,YES (1st Priority),834.45,844.95,826.75,0,Was HTH | 837.25,No,"No buy, but in Long",crossed below,buy,buy,buy,2674433,2021-10-27 01:54:02.237815
+8,NESTLEIND,50,YES,19217.6,19280.0,18638.95,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,4598529,2021-10-27 01:54:10.915901
+9,UBL,700,YES,1663.95,1671.3,1625.0,0,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Short,4278529,2021-10-27 01:54:15.474364

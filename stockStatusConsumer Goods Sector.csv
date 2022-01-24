@@ -1,0 +1,10 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,ASIANPAINT,300,YES (2nd priority),2969.8,3024.0,2898.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,60417,2021-10-27 01:51:54.790374
+1,BERGEPAINT,1100,In between,733.3,743.0,717.75,0,Was HTH | 740.0,No,"No buy, but in Long",crossed above,buy,buy,In Long,103425,2021-10-27 01:52:02.234168
+2,DIXON,125,YES (1st Priority),5161.1,5217.75,4735.0,0,HTH,Was LTL | 4801.0,"No buy, but in Long",crossed above,buy,buy,In Long,5552641,2021-10-27 01:52:10.858718
+3,GODREJCP,1000,"Not SureNot Sure (It can be brought, but trade to be completed within 5-20mins of market opening)",964.0,968.9,935.1,0,Was HTH | 964.25,No,"No buy, but in Long",crossed above,buy,buy,In Long,2585345,2021-10-27 01:52:19.159290
+4,HAVELLS,500,YES,1285.5,1309.0,1261.8,0,Less,Was LTL | 1272.4,"No buy, but in Long",crossed above,buy,buy,In Long,2513665,2021-10-27 01:52:26.521768
+5,POLYCAB,300,YES (1st Priority),2298.7,2373.8,2292.1,0,Less,No,"No sell, but in Short",crossed below,sell,sell,In Short,2455041,2021-10-27 01:52:30.684091
+6,TATACONSUM,1350,NO,808.9,811.9,786.1,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,878593,2021-10-27 01:52:37.874108
+7,TITAN,375,YES (2nd priority),2454.75,2468.45,2371.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,897537,2021-10-27 01:52:48.359685
+8,VOLTAS,500,YES very slow ,1193.2,1202.7,1173.8,0,Was HTH | 1197.9,No,"No buy, but in Long",crossed above,buy,buy,In Long,951809,2021-10-27 01:52:55.677203

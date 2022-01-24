@@ -1,0 +1,15 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,BPCL,1800,NO,431.05,436.95,428.05,0,Less,Was LTL | 429.85,"No buy, but in Long",crossed below,sell,buy,In Long,134657,2021-10-27 01:57:17.486981
+1,GAIL,6100,NO,152.0,152.5,148.85,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,1207553,2021-10-27 01:57:24.562647
+2,GUJGASLTD,1250,NO,595.2,598.0,581.25,0,Less,Was LTL | 581.6,"No buy, but in Long",crossed above,buy,buy,In Long,2713345,2021-10-27 01:57:31.515059
+3,HINDPETRO,2700,YES very occassionally,332.4,335.9,318.4,0,HTH,Was LTL | 321.3,"No sell, but in Short",crossed above,buy,buy,In Short,359937,2021-10-27 01:57:35.734481
+4,IGL,1375,NO,473.2,474.5,467.05,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,2883073,2021-10-27 01:57:44.173869
+5,IOC,6500,NO,131.5,132.4,130.05,0,Less,No,"No buy, but in Long",crossed below,buy,buy,buy,415745,2021-10-27 01:57:48.902541
+6,MGL,600,YES,1007.95,1010.0,976.9,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,4488705,2021-10-27 01:57:55.495922
+7,NTPC,5700,,143.2,145.65,142.45,0,Less,Was LTL | 143.15,"No buy, but in Long",crossed below,sell,sell,In Long,2977281,2021-10-27 01:58:05.110702
+8,ONGC,7700,NO,163.1,163.95,160.3,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,633601,2021-10-27 01:58:12.379506
+9,PETRONET,3000,NO,232.05,232.55,228.3,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2905857,2021-10-27 01:58:20.147628
+10,POWERGRID,4000,NO,190.4,192.95,189.7,0,Less,LTL,"No buy, but in Long",crossed below,buy,buy,buy,3834113,2021-10-27 01:58:24.077921
+11,RELIANCE,250,YES,2661.05,2668.9,2603.15,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,738561,2021-10-27 01:58:34.017045
+12,TATAPOWER,6750,YES,225.3,232.3,214.25,0,HTH,No,"No buy, but in Long",crossed below,buy,buy,In Short,877057,2021-10-27 01:58:43.518678
+13,TORNTPOWER,1500,YES,499.15,506.95,486.5,0,HTH,No,"No sell, but in Short",crossed above,buy,buy,In Long,3529217,2021-10-27 01:58:52.182923

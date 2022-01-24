@@ -1,0 +1,9 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,AARTIIND,850,NO,1014.45,1018.95,1003.0,0,Was HTH | 1018.9,No,"No buy, but in Long",crossed above,buy,buy,In Long,1793,2021-10-27 01:50:10.654686
+1,DEEPAKNTR,500,YES,2467.0,2480.0,2330.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,5105409,2021-10-27 01:50:21.254598
+2,NAVINFLUOR,225,YES,3460.5,3493.85,3375.0,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,3756033,2021-10-27 01:50:28.500159
+3,PIDILITIND,500,YES,2318.85,2335.0,2282.05,0,Was HTH | 2327.25,No,"No buy, but in Long",crossed above,buy,buy,In Long,681985,2021-10-27 01:50:36.681720
+4,PIIND,250,YES,3035.9,3070.6,2906.0,0,Was HTH | 3054.0,No,"No buy, but in Long",crossed above,buy,buy,In Long,6191105,2021-10-27 01:50:43.928781
+5,SRF,125,YES,2110.6,2171.95,2065.0,0,Less,Was LTL | 2079.95,"No buy, but in Long",crossed above,buy,buy,In Short,837889,2021-10-27 01:50:48.041149
+6,TATACHEM,1000,NO (If momentum is strong then trade can be done),1006.6,1013.95,982.6,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,871681,2021-10-27 01:50:56.653407
+7,UPL,1300,NO,713.25,716.45,693.6,0,HTH,No,"No buy, but in Long",crossed above,buy,buy,In Long,2889473,2021-10-27 01:51:03.731842

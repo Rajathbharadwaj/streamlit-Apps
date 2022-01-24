@@ -1,0 +1,13 @@
+,name,ltq,Trade,ltp,high,low,PCR,HTH,LTL,superTrend,14MACrossed28,44DMA,VWAP,PSAR,instrument_token,last Updated
+0,COFORGE,200.0,YES,5088.05,5207.95,4962.05,0,Less,No,"No buy, but in Long",crossed above,buy,buy,In Long,2955009,2021-10-27 01:54:21.834544
+1,HCLTECH,700.0,NO,1166.8,1182.0,1153.25,0,Less,Was LTL | 1157.15,"No buy, but in Long",crossed above,buy,buy,In Long,1850625,2021-10-27 01:54:31.291726
+2,INFY,600.0,NO,1703.7,1726.6,1695.9,0,Less,No,"No buy, but in Long",crossed above,buy,buy,buy,408065,2021-10-27 01:54:36.315611
+3,LTI,150.0,YES,6506.65,6608.85,6420.0,0,Was HTH | 6586.7,No,"No buy, but in Long",crossed above,buy,buy,In Long,4561409,2021-10-27 01:54:45.841272
+4,LTTS,200.0,YES,4564.85,4715.0,4487.2,0,Was HTH | 4613.0,No,"No buy, but in Long",crossed above,buy,sell,In Long,4752385,2021-10-27 01:54:54.421355
+5,MINDTREE,400.0,YES,4550.9,4594.0,4433.3,0,Less,No,"No buy, but in Long",crossed above,buy,buy,buy,3675137,2021-10-27 01:54:58.557510
+6,MPHASIS,325.0,YES,3244.0,3341.85,3201.4,0,Was HTH | 3303.95,No,"No buy, but in Long",crossed below,sell,sell,In Long,1152769,2021-10-27 01:55:06.042993
+7,OFSS,275.0,NO,4544.35,4625.0,4455.45,0,Was HTH | 4593.3,No,"No buy, but in Long",crossed above,buy,sell,In Short,2748929,2021-10-27 01:55:09.955847
+8,SIEMENS,300.0,Inbetween/,2169.25,2189.45,2151.7,0,Less,No,"No sell, but in Short",crossed above,buy,sell,In Short,806401,2021-10-27 01:55:13.855289
+9,TCS,,Not,3482.6,3529.0,3475.0,0,Was HTH | 3514.55,No,"No sell, but in Short",crossed below,sell,sell,In Long,2953217,2021-10-27 01:55:23.417819
+10,TECHM,,sure,1563.3,1630.0,1543.0,0,HTH,No,"No sell, but in Short",crossed above,sell,sell,In Long,3465729,2021-10-27 01:55:31.462939
+11,WIPRO,600.0,NO,668.15,678.8,665.0,0,Less,No,"No sell, but in Short",crossed above,buy,buy,In Long,969473,2021-10-27 01:55:39.141954

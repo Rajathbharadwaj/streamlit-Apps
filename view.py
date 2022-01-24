@@ -15,7 +15,7 @@ import requests
 # from visualizer import visualize
 
 st.set_page_config(
-   page_title="Predict stocks",
+   page_title="Traded status",
    page_icon="🧊",
    layout="wide",
    initial_sidebar_state="expanded", )
@@ -81,7 +81,7 @@ dfRt.drop('Unnamed: 0', axis=1, inplace = True)
 s = dfRt.style.applymap(colorChanger)
 st.table(s)
 st.write('Nifty')
-dfRtN = pd.read_csv('nifty_status.csv')
+dfRtN = pd.read_csv('BAJFINANCE_status.csv')
 dfRtN.drop('Unnamed: 0', axis=1, inplace = True)
 sN = dfRtN.style.applymap(colorChanger)
 st.table(sN)
